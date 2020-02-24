@@ -13,6 +13,7 @@
 		DCF0CB422403C9160069D2BB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCF0CB402403C9160069D2BB /* Main.storyboard */; };
 		DCF0CB442403C9170069D2BB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCF0CB432403C9170069D2BB /* Assets.xcassets */; };
 		DCF0CB472403C9170069D2BB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCF0CB452403C9170069D2BB /* LaunchScreen.storyboard */; };
+		DCF0CB4F2403CC750069D2BB /* UITextField+InputView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCF0CB4E2403CC750069D2BB /* UITextField+InputView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DCF0CB432403C9170069D2BB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DCF0CB462403C9170069D2BB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DCF0CB482403C9170069D2BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DCF0CB4E2403CC750069D2BB /* UITextField+InputView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITextField+InputView.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DCF0CB3A2403C9160069D2BB /* AppDelegate.swift */,
 				DCF0CB3C2403C9160069D2BB /* SceneDelegate.swift */,
 				DCF0CB3E2403C9160069D2BB /* ViewController.swift */,
+				DCF0CB4E2403CC750069D2BB /* UITextField+InputView.swift */,
 				DCF0CB402403C9160069D2BB /* Main.storyboard */,
 				DCF0CB432403C9170069D2BB /* Assets.xcassets */,
 				DCF0CB452403C9170069D2BB /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				DCF0CB3F2403C9160069D2BB /* ViewController.swift in Sources */,
 				DCF0CB3B2403C9160069D2BB /* AppDelegate.swift in Sources */,
 				DCF0CB3D2403C9160069D2BB /* SceneDelegate.swift in Sources */,
+				DCF0CB4F2403CC750069D2BB /* UITextField+InputView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
